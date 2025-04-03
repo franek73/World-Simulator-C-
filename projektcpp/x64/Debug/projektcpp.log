@@ -1,0 +1,4 @@
+﻿  Zwierze.cpp
+C:\Users\franc\Documents\Studia\Semestr 2\PO\Projekty\projektcpp\projektcpp\Zwierze.cpp(31,19): warning C4244: "argument": konwersja z "time_t" do "unsigned int", możliwa utrata danych
+C:\Users\franc\Documents\Studia\Semestr 2\PO\Projekty\projektcpp\projektcpp\Zwierze.cpp(159,19): warning C4244: "argument": konwersja z "time_t" do "unsigned int", możliwa utrata danych
+  projektcpp.vcxproj -> C:\Users\franc\Documents\Studia\Semestr 2\PO\Projekty\projektcpp\x64\Debug\projektcpp.exe

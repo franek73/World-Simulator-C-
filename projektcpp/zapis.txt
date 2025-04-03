@@ -1,0 +1,25 @@
+10
+10
+22
+L 3 7 3 22 Lis
+W 5 6 12 22 Wilk
+W 6 8 12 22 Wilk
+O 6 9 4 22 Owca
+Z 2 6 2 22 Zolw
+Z 0 3 2 22 Zolw
+B 2 1 99 22 BarszczSosnowskiego
+M 9 2 0 22 Mlecz
+G 6 1 0 22 Guarana
+J 4 0 99 22 WilczeJagody
+B 6 0 99 22 BarszczSosnowskiego
+B 9 0 99 22 BarszczSosnowskiego
+M 9 1 0 13 Mlecz
+G 6 2 0 13 Guarana
+J 4 1 99 13 WilczeJagody
+M 9 3 0 9 Mlecz
+G 5 1 0 9 Guarana
+J 3 0 99 9 WilczeJagody
+G 6 5 0 9 Guarana
+M 8 1 0 9 Mlecz
+G 6 3 0 9 Guarana
+J 4 2 99 9 WilczeJagody
